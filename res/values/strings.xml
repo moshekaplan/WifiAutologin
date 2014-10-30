@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Wifi Autologin</string>
+	<string name="about">About</string>
+	<string name="about_message">This application was made by Moshe Kaplan.</string>
+	<string name="close">Close</string>
+	<string name="welcome_message">Welcome. Please enter your username and password for the Wifi.</string>
+	<string name="username">Username</string>
+	<string name="password">Password</string>
+	<string name="save">Save</string>
+	<string name="saved">Saved!</string>
+	<string name="username_hint">username</string>
+	<string name="logon">Manual Logon</string>
+	<string name="sent">Logon info sent!</string>
+</resources>
